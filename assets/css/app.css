@@ -3,6 +3,7 @@ h1 {
   font-weight: 900;
   text-decoration: underline overline burlywood;
   /* text-decoration: none; */
+  font-size: 200%;
 }
 
 p {
