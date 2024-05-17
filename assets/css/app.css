@@ -1,4 +1,15 @@
 h1 {
-  color: red;
+  color: blueviolet;
   /* font-size: large; */
+  background-color: tan;
+}
+
+button {
+  color: darkblue;
+  background-color: tan;
+}
+
+p {
+  color: white;
+  background-color: grey;
 }
